@@ -1,3 +1,7 @@
+#Se necesita diseñar un conjunto de clases que modele un sistema de facturación. Las clases deben representar las facturas y sus elementos,
+# como los detalles de cada factura. Se requiere implementar un método para mostrar la suma total de todas las facturas emitidas.
+# Codifique los siguientes comportamientos:
+# Mostrar sumatoria total de todas las facturas emitidas.
 import datetime
 class Empresa:
   def __init__(self,nombre):
